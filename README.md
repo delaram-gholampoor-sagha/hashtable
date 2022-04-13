@@ -1,2 +1,2 @@
-# Map
-Implementing Map in Golang 
+# HashTable
+Implementing Hashtable in Golang 
